@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhavalvedant
-- 👀 I’m interested in ... Data Science, Web Development, Learning New Technologies
+- 👀 I’m interested in ... Data Science, Web Development, Coding, Learning New Technologies
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...7743888954
